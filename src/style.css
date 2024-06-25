@@ -70,7 +70,7 @@ h1 .welcome {
 }
 h1 .month {
   font-size: 80px;
-  color: var(--big-header-colour);
+  color: var(--third-colour);
   padding: 0;
 }
 h2 {
