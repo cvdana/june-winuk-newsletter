@@ -184,12 +184,7 @@ hr {
 .awareness {
   background-color: #5983ad;
 }
-.new-volunteers {
-  background-color: #3983ca;
-}
-.awareness h2 {
-  text-transform: uppercase;
-}
+
 .adtl {
   width: 260px;
   height: 280px;
@@ -217,33 +212,7 @@ hr {
 .blog-review p {
   padding: 10px;
 }
-.blog-month {
-  background-color: #e7e7e3;
-  margin-top: 0;
-}
-.decor {
-  border-radius: 20px;
-}
-.dashed {
-  border: 5px dashed;
-}
-.section-one {
-  background-color: #9bc8c9;
-  text-align: center;
-}
 
-.section-two {
-  background-color: #52a6a7;
-}
-.section-three-first {
-  background-color: #efc4dd;
-}
-.section-three-second {
-  border-color: #86245b;
-}
-.section-four {
-  border-color: #ac698e;
-}
 .paragraph {
   text-align: center;
 }
