@@ -153,46 +153,11 @@ hr {
 .careers {
   background-color: var(--body-colour);
 }
-.careers-skills {
-  background-color: var(--career-box);
-}
-.skills-text {
-  background-image: url("../images/skills4.jpg");
-  background-size: cover;
-}
-.insta-topic,
-.insta-topic a {
-  font-weight: bold;
-  color: #c43389;
-}
-.insta-topic {
-  margin-left: 20px;
-  padding-top: 20px;
-}
-.youtube-topic,
-.youtube-topic a {
-  font-weight: bold;
-  color: #0d8199;
-}
-.youtube-topic {
-  margin: 30px 20px 0;
-  padding-top: 20px;
-}
 
-.youtube-careers {
-  width: 410px;
-  height: 240px;
-  margin: 10px auto;
-  border-radius: 50%;
-  background-color: #3c5366;
-}
-.youtube-careers p {
-  text-align: center;
-  padding: 45px 15px 0px;
-}
 .events-recap {
-  background-color: var(--socials);
+  background-color: #648bb3;
 }
+.LGBTQ img,
 .upcoming {
   width: 400px;
   height: 400px;
