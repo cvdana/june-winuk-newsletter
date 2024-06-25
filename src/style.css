@@ -196,6 +196,9 @@ hr {
   display: block;
   margin: auto;
 }
+.blog p {
+  text-align: center;
+}
 .blog-review {
   background-color: var(--blog-review);
 }
