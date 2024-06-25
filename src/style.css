@@ -164,16 +164,11 @@ hr {
   display: block;
   margin: auto;
 }
-.save {
-  display: block;
-  margin: auto;
-}
+
 .event-final {
   margin-top: 30px;
 }
-.table {
-  color: #fff;
-}
+
 .socials img {
   height: 300px;
   width: 300px;
@@ -181,10 +176,10 @@ hr {
   margin: auto;
 }
 .socials {
-  background-color: var(--blog-one);
+  background-color: #d265a6;
 }
 .socials-two {
-  background-color: var(--big-header-colour);
+  background-color: #7879ae;
 }
 .awareness {
   background-color: #5983ad;
