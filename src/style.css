@@ -154,24 +154,10 @@ hr {
   height: 300px;
 }
 
-.careers {
-  background-color: var(--body-colour);
-}
-
 .events-recap {
   background-color: #648bb3;
 }
-.LGBTQ img,
-.upcoming {
-  width: 400px;
-  height: 400px;
-  display: block;
-  margin: auto;
-}
 
-.event-final {
-  margin-top: 30px;
-}
 .top-calendar {
   width: 68px;
   height: 20px;
@@ -251,7 +237,7 @@ hr {
 .contact-blog {
   text-align: center;
 }
-.careers a,
+
 .events-recap a,
 .research a,
 .paragraph a,
@@ -291,16 +277,7 @@ hr {
   p .author {
     font-size: 13px;
   }
-  .youtube-careers {
-    width: 250px;
-    height: 270px;
-    margin: 10px auto;
-    border-radius: 50%;
-    background-color: #3c5366;
-  }
-  .youtube-careers a {
-    font-size: 13px;
-  }
+
   .skills {
     height: 305px;
   }
